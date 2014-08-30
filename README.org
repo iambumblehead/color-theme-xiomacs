@@ -1,5 +1,6 @@
 This is my color theme. It is a simple remix of the default Emacs
-colors.
+colors. It is designed for Emacs 24 and later, so it cannot be used
+with the older color-theme.el package.
 
 Put the .el in your load path and then:
 
