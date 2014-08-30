@@ -1,1 +1,8 @@
-This is my color theme.
+This is my color theme. It is a simple remix of the default Emacs
+colors.
+
+Put the .el in your load path and then:
+
+: (load-theme 'xiomacs :no-confirm)
+
+Enjoy. 
