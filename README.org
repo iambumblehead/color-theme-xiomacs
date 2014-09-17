@@ -7,3 +7,5 @@ Put the .el in your load path and then:
 : (load-theme 'xiomacs :no-confirm)
 
 Enjoy. 
+
+[[file:https://github.com/dto/color-theme-xiomacs/raw/master/screenshot.png]]
